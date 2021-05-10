@@ -6,6 +6,10 @@
 #define A_c 2
 #define A_i 3
 #define no_arg 4
+//hey could you please give me a pen
+//111111111111111111111111111111111
+//2222222222222222222222222222222222
+
 
 int str_length(const char *str)
 {
