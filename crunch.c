@@ -6,7 +6,6 @@
 #define A_c 2
 #define A_i 3
 #define no_arg 4
-//hey could you please give me a pen
 
 int str_length(const char *str)
 {
@@ -124,5 +123,6 @@ int main(int argc, char** argv) {
 
     free(input);
     return 0;
+    // Hey I want to make changes for my branch, is that OK?
 }
 // could you please tell me what have I changed????
