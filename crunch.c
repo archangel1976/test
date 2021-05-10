@@ -9,6 +9,7 @@
 //hey could you please give me a pen
 //111111111111111111111111111111111
 //2222222222222222222222222222222222
+//again doing dumb things
 
 
 int str_length(const char *str)
